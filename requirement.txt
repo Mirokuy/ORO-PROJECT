@@ -1,4 +1,3 @@
-streamlit
-tensorflow-cpu==2.12.0
-numpy
-Pillow
+git add requirements.txt
+git commit -m "Fix: use tensorflow-cpu==2.12.0"
+git push
